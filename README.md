@@ -1,1 +1,3 @@
 # Clinic-Management-System-Using-Ado.net
+
+The project clinic management is software developed by using ADO.net and crystal report to simplify the communication process between the doctor and the receptionist. The software would be operated by three admins such as Hospital admin, second doctor and the other is receptionist. Doctors can add his/her basic information. Receptionist can add and check patient information. Also can produce the report. Hospital Admin can check doctor, receptionist, laboratory and patients information. In this project I use Ado.net with crystal reports for reporting and Ms Sql database.
